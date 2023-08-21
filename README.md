@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alriezaa
-- 👀 I’m interested in data science & python
-- 🌱 I’m currently learning important python library
-- 📫 How to reach me alireza.heidary1999@gmail.com
+- 👀 I’m interested in python & Seo 
+- 🌱 I’m currently learning docker 
+- 📫 How to reach me alriezaah@gmail.com
 
 <!---
 alriezaa/alriezaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
